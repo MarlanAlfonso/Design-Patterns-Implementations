@@ -1,4 +1,4 @@
-# Brewtiful-Decorator-Pattern
+# Brewtiful - Decorator Design Pattern
 
 ## Customizing Coffee Orders
 A popular coffee shop, "Brewtiful," wants a flexible way to calculate the cost and list the ingredients of customized coffee orders. 
